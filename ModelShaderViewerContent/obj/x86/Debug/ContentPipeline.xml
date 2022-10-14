@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Cobblestone.fbx</Source>
+      <Name>Cobblestone</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Cobblestone.xnb</Output>
+      <Time>2012-08-02T11:00:50.9321103-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Cobblestone_0.xml</Key>
+        <Value>2012-08-03T00:44:15.1561409-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\BrickRound0105_5_SPEC_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>DebugFont.spritefont</Source>
+      <Name>DebugFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\DebugFont.xnb</Output>
+      <Time>2012-08-08T19:39:31.0375322-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BrickRound0105_5_S.jpg</Source>
+      <Name>Textures\BrickRound0105_5_S</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\BrickRound0105_5_S.xnb</Output>
+      <Time>2012-08-02T10:46:26.5119103-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BrickRound0105_5_SPEC.png</Source>
+      <Name>Textures\BrickRound0105_5_SPEC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\BrickRound0105_5_SPEC.xnb</Output>
+      <Time>2012-08-02T10:46:26.5169103-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BrickRound0105_5_S_BUMP.png</Source>
+      <Name>Textures\BrickRound0105_5_S_BUMP</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\BrickRound0105_5_S_BUMP.xnb</Output>
+      <Time>2012-08-02T10:46:26.5139103-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Bump Map.jpg</Source>
+      <Name>Textures\Bump Map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\Bump Map.xnb</Output>
+      <Time>2012-08-02T23:42:31.1601409-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Diffuse Map.jpg</Source>
+      <Name>Textures\Diffuse Map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\Diffuse Map.xnb</Output>
+      <Time>2012-08-02T23:42:31.1771409-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Specular Map.jpg</Source>
+      <Name>Textures\Specular Map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\Specular Map.xnb</Output>
+      <Time>2012-08-02T23:42:31.1991409-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Cobblestone.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Cobblestone_0.xml</Output>
+      <Time>2012-08-02T11:00:50.9321103-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BrickRound0105_5_SPEC.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\BrickRound0105_5_SPEC_0.xnb</Output>
+      <Time>2012-08-02T10:46:26.5169103-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Bridge.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Bridge_0.xml</Output>
+      <Time>2012-08-02T15:52:38.5405409-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Skyboxes\cube.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Skyboxes\cube_0.xml</Output>
+      <Time>2012-08-03T12:20:40.5983281-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Skyboxes\Skybox.fx</Source>
+      <Name>Skyboxes\Skybox</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Skyboxes\Skybox.xnb</Output>
+      <Time>2012-08-08T23:08:11.9085322-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Skyboxes\cube.fbx</Source>
+      <Name>Skyboxes\cube</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyTextureAlpha">False</Data>
+        <Data Key="PremultiplyVertexColors">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Skyboxes\cube.xnb</Output>
+      <Time>2012-08-03T12:20:40.5983281-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Skyboxes\cube_0.xml</Key>
+        <Value>2012-08-03T12:26:44.1193281-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Skyboxes\SunInSpace.dds</Source>
+      <Name>Skyboxes\SunInSpace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Skyboxes\SunInSpace.xnb</Output>
+      <Time>2012-08-03T12:18:49.1403281-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SP96.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\SP96_0.xml</Output>
+      <Time>2012-08-03T14:55:20.2593281-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Blank.bmp</Source>
+      <Name>Textures\Blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\Blank.xnb</Output>
+      <Time>2012-09-22T07:34:19.4499606-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SP96.FBX</Source>
+      <Name>Ball</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateTangentFrames">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Ball.xnb</Output>
+      <Time>2012-08-03T14:55:20.2593281-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\SP96_0.xml</Key>
+        <Value>2012-08-03T14:56:25.2933281-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\Diffuse Map.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Diffuse Map_0.xnb</Output>
+      <Time>2012-08-02T15:52:38.5335409-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FACE.JPG</Source>
+      <Name>FACE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\FACE.xnb</Output>
+      <Time>2012-08-17T16:12:35.2751051-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FEMALE.JPG</Source>
+      <Name>FEMALE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\FEMALE.xnb</Output>
+      <Time>2012-08-17T16:12:35.2781051-04:00</Time>
+    </Item>
+    <Item>
+      <Source>HAIR.JPG</Source>
+      <Name>HAIR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\HAIR.xnb</Output>
+      <Time>2012-08-17T16:12:35.2801051-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FEMALE.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\FEMALE_0.xnb</Output>
+      <Time>2012-08-17T16:12:35.2781051-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FACE.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\FACE_0.xnb</Output>
+      <Time>2012-08-17T16:12:35.2751051-04:00</Time>
+    </Item>
+    <Item>
+      <Source>HAIR.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\HAIR_0.xnb</Output>
+      <Time>2012-08-17T16:12:35.2801051-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Girl.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Girl_0.xml</Output>
+      <Time>2012-08-17T15:53:32.3531051-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Girl.fbx</Source>
+      <Name>Girl</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateTangentFrames">True</Data>
+        <Data Key="RotationX">180</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Girl.xnb</Output>
+      <Time>2012-08-17T15:53:32.3531051-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Girl_0.xml</Key>
+        <Value>2012-08-17T16:06:21.0251051-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\FEMALE_0.xnb</Request>
+      <Request>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\FACE_0.xnb</Request>
+      <Request>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\HAIR_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Bridge.FBX</Source>
+      <Name>Bridge</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateTangentFrames">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Bridge.xnb</Output>
+      <Time>2012-08-02T15:52:38.5405409-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Bridge_0.xml</Key>
+        <Value>2012-08-03T00:44:16.4581409-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Diffuse Map_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Effects\CustomEffect.fx</Source>
+      <Name>Effects\CustomEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Effects\CustomEffect.xnb</Output>
+      <Time>2012-08-13T21:51:07.1273142-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FEMALE_BUMP.jpg</Source>
+      <Name>FEMALE_BUMP</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\FEMALE_BUMP.xnb</Output>
+      <Time>2012-08-28T18:09:20.131308-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Floor.png</Source>
+      <Name>Textures\FloorTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\FloorTexture.xnb</Output>
+      <Time>2012-08-29T18:10:49.930727-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Floor_Bump.png</Source>
+      <Name>Textures\FloorBump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\FloorBump.xnb</Output>
+      <Time>2012-08-29T18:10:49.961927-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Floor.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Floor_0.xml</Output>
+      <Time>2012-08-29T18:10:37.123127-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Floor.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Floor_0.xnb</Output>
+      <Time>2012-08-29T11:54:33.5240995-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Floor.fbx</Source>
+      <Name>Floor</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateTangentFrames">True</Data>
+        <Data Key="RotationX">-90</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Floor.xnb</Output>
+      <Time>2012-08-29T18:10:37.123127-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Floor_0.xml</Key>
+        <Value>2012-08-29T18:11:54.775727-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Floor_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Effects\Billboard.fx</Source>
+      <Name>Effects\Billboard</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Effects\Billboard.xnb</Output>
+      <Time>2012-08-31T20:33:04.7737011-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Circle.png</Source>
+      <Name>Textures\Circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\Circle.xnb</Output>
+      <Time>2012-08-30T14:16:29.6329007-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Ground.png</Source>
+      <Name>Textures\Ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\Ground.xnb</Output>
+      <Time>2012-08-31T13:00:39.1447011-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\GroundBump.png</Source>
+      <Name>Textures\GroundBump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\GroundBump.xnb</Output>
+      <Time>2012-08-31T13:00:39.1637011-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\Effect2.fx</Source>
+      <Name>Effects\Effect2</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Effects\Effect2.xnb</Output>
+      <Time>2012-09-19T03:41:31.4108953-04:00</Time>
+      <Dependency>
+        <Key>Effects\Effect2.fxh</Key>
+        <Value>2012-09-13T09:18:07.80589-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Effects\MotionBlur.fx</Source>
+      <Name>Effects\MotionBlur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Effects\MotionBlur.xnb</Output>
+      <Time>2012-09-22T09:31:02.6189606-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Grass.png</Source>
+      <Name>Textures\Grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\Grass.xnb</Output>
+      <Time>2012-09-22T08:00:14.3269606-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewerContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-09T16:39:57.4500933-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,43 @@
+c:\users\abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Cobblestone.xnb
+c:\users\abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\BrickRound0105_5_SPEC_0.xnb
+c:\users\abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\ModelShaderViewer.exe
+c:\users\abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\ModelShaderViewer.pdb
+c:\users\abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\obj\x86\Debug\ModelShaderViewer.exe
+c:\users\abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\obj\x86\Debug\ModelShaderViewer.pdb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Bridge.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\DebugFont.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\BrickRound0105_5_S.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\BrickRound0105_5_SPEC.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\BrickRound0105_5_S_BUMP.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\Bump Map.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\Diffuse Map.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\Specular Map.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Skyboxes\cube.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Skyboxes\SunInSpace.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Skyboxes\Skybox.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Ball.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\Blank.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Diffuse Map_0.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\FACE.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\FEMALE.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\HAIR.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\FEMALE_0.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\FACE_0.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\HAIR_0.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Girl.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Effects\CustomEffect.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\FEMALE_BUMP.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Floor.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\FloorTexture.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\FloorBump.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Floor_0.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Effects\Billboard.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\Circle.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\Ground.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\GroundBump.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\obj\x86\Debug\ModelShaderViewer.csproj.ResolveComReference.cache
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Effects\Effect2.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Effects\MotionBlur.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Debug\Content\Textures\Grass.xnb

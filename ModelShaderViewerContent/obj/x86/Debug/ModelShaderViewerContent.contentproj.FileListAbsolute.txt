@@ -1,0 +1,1 @@
+c:\users\abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewerContent\obj\x86\Debug\ResolveAssemblyReference.cache

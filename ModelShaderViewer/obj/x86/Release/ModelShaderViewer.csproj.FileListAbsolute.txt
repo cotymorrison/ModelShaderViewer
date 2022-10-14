@@ -1,0 +1,24 @@
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Release\Content\Cobblestone.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Release\Content\Bridge.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Release\Content\Skyboxes\cube.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Release\Content\Ball.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Release\Content\DebugFont.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Release\Content\Effects\CustomEffect.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Release\Content\Skyboxes\Skybox.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Release\Content\Effects\Effect.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Release\Content\Textures\BrickRound0105_5_S.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Release\Content\Textures\BrickRound0105_5_SPEC.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Release\Content\Textures\BrickRound0105_5_S_BUMP.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Release\Content\Textures\Bump Map.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Release\Content\Textures\Diffuse Map.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Release\Content\Textures\Specular Map.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Release\Content\Skyboxes\SunInSpace.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Release\Content\Textures\Blank.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Release\Content\Textures\BrickRound0105_5_SPEC_0.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Release\Content\Diffuse Map_0.xnb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Release\ModelShaderViewer.exe
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\bin\x86\Release\ModelShaderViewer.pdb
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\obj\x86\Release\ModelShaderViewer.exe
+C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewer\obj\x86\Release\ModelShaderViewer.pdb

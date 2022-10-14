@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>Plane</Name>
+    <Identity>
+      <SourceFilename>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewerContent\Floor.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 -0.0220470428 0.009737492 0.0212363 1</Transform>
+    <Positions>1 -1 0 -1 -1 0 1 1 0 -1 1 0</Positions>
+    <Geometry>
+      <Batch>
+        <Material>#Resource1</Material>
+        <Indices>2 1 0 0 3 2</Indices>
+        <Vertices>
+          <PositionIndices>1 0 2 3</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.003058 0 0 0.996942 0.996942 1 1 0.003058</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>None__Floor_png</Name>
+      <Identity>
+        <SourceFilename>C:\Users\Abastion\documents\visual studio 2010\Projects\ModelShaderViewer\ModelShaderViewer\ModelShaderViewerContent\Floor.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.8 0.8 0.8</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.160000011 0.160000011 0.160000011</Data>
+        <Data Key="SpecularPower" Type="float">80</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\Floor.png</ExternalReference>
+  </ExternalReferences>
+</XnaContent>
